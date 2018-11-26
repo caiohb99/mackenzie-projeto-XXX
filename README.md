@@ -1,7 +1,7 @@
-# [Objetos Inteligentes Conectados] X sem. 20XX
+# [Objetos Inteligentes Conectados] 2 sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 05J12
+## Projeto: "Simple_LED"
 ## Integrantes do grupo:
 
 * Caio Henrique Barros - 31507859 
@@ -13,7 +13,7 @@
 
 Descreva resumidamente o projeto aqui.
 
-Arduino que acende led por meio de Html conectado via ip.
+Arduino que acende um led por meio de ip local(HTTP) conectado ao um dispositivo (notebook).
 
 
 `src/` deve conter os códigos desenvolvidos
