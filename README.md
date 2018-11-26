@@ -1,20 +1,20 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [Objetos Inteligentes Conectados] X sem. 20XX
 
 ## Turma XXX
 ## Projeto: "nome do projeto"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Caio Henrique Barros - 31507859 
+* Igor Henrique Francozo - 31514952
+* Gustavo Queiroz - 41414616
+* Gabriel Mota - 31648071
 
 ## Descrição resumida do projeto
 
 Descreva resumidamente o projeto aqui.
 
-_______________________________________
-Obs:
+Arduino que acende led por meio de Html conectado via ip.
+
 
 `src/` deve conter os códigos desenvolvidos
 
