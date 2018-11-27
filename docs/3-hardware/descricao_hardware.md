@@ -7,14 +7,10 @@ Deve conter:
 
 •	CABO ETHERNET (CONEXÇÃO VIA IP)
 Faz a conexão da placa Ethernet com o pc via IP
-•	ETHERNET SHIELD(PLACA DE REDE)
-Cria uma conexão IP
+•	ETHERNET SHIELD(PLACA DE REDE) -Cria uma conexão IP
 •	LED
-•	RESISTOR
-Controlar resistencia elétrica
+•	RESISTOR -Controlar resistencia elétrica
 
 2) Desenho Tinkercad ou Fritzing
-
-3) Esquema eletrônico
-
+#No repositório Principal#
 
